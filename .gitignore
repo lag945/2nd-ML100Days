@@ -91,3 +91,13 @@ homework/submission_no_normalization.csv
 input/test.csv
 input/train.csv
 input/trainLabels.csv
+homework/house_blending.csv
+homework/house_gdbt.csv
+homework/house_linear.csv
+homework/house_rf.csv
+homework/house_stacking.csv
+homework/titanic_blending.csv
+homework/titanic_gdbt.csv
+homework/titanic_lr.csv
+homework/titanic_rf.csv
+homework/titanic_stacking.csv
