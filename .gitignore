@@ -101,3 +101,10 @@ homework/titanic_gdbt.csv
 homework/titanic_lr.csv
 homework/titanic_rf.csv
 homework/titanic_stacking.csv
+homework/baseline_example.csv
+input/column_description.csv
+input/column_description_en.csv
+input/sample_submission.csv
+input/table_description.xlsx
+input/test_offline.csv
+input/train_offline.csv
