@@ -87,3 +87,7 @@ homework/.ipynb_checkpoints/Day_019_HW-checkpoint.ipynb
 homework/.ipynb_checkpoints/Day_020_HW-checkpoint.ipynb
 homework/.ipynb_checkpoints/Day_020_Outliers-checkpoint.ipynb
 homework/Day_020_Outliers.ipynb
+homework/submission_no_normalization.csv
+input/test.csv
+input/train.csv
+input/trainLabels.csv
